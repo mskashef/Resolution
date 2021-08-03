@@ -242,4 +242,3 @@ if (result === 0) {
 console.log()
 console.log()
 console.log()
-// console.log(JSON.stringify(then(tokenizeStatement('d'), tokenizeStatement('NOT a AND b'))))
