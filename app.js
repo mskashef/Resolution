@@ -1,4 +1,3 @@
-const {isOperator} = require('./infixToPostfix');
 const chalk = require('chalk')
 const fs = require('fs');
 Array.prototype.last = function () {
