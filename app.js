@@ -210,10 +210,9 @@ function resolution (finalKB) {
                     withNot = kb2;
                     withoutNot = kb1;
                 }
-                if (withNot[1] === withoutNot[0]) {  // TANAGHOZ
+                if (withNot[1] === withoutNot[0]) {
                     console.log(chalk.bold('\n         + Contradiction:'), JSON.stringify(withNot), JSON.stringify(withoutNot), chalk.yellow('══>'), chalk.rgb(0,255,0)('Theorem is proved!   :)'))
                     return 1;
-                    // TODO finish
                 }
                 // go on
             }
