@@ -1,0 +1,5 @@
+R1: q
+R2: NOT p
+R3: p AND q THEN r
+R4: r AND NOT q
+T: p AND r THEN q

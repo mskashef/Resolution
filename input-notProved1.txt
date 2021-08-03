@@ -1,0 +1,4 @@
+R1: p OR r
+R2: r AND q
+R3: t AND p
+T: p THEN n

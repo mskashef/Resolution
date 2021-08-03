@@ -1,0 +1,4 @@
+R1: p OR r THEN t
+R2: NOT p
+R3: t AND q
+T: p THEN t OR q

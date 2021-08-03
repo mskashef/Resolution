@@ -1,0 +1,4 @@
+R1: NOT p
+R2: p THEN q
+R3: q OR t
+T: NOT t
